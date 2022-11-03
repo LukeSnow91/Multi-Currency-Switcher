@@ -1,0 +1,19 @@
+{
+    "name": "lukesnow91/multi-currency-switcher",
+    "description": "",
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "homepage": "https://github.com/lukesnow91/elementor-pro",
+    "authors": [
+        {
+            "name": "multi-currency-switcher",
+            "homepage": "https://spiritutopia.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">5.6"
+    }
+}
